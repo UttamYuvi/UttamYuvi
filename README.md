@@ -1,3 +1,4 @@
+![logo](https://github.com/UttamYuvi/UttamYuvi/blob/main/Uttam-github-banner.png)
 <h1 align="center">Hi 👋, I'm Uttam Verma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
