@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **Shopinfi – A Multi-Panel E-Commerce Platform**
+- 🔭 Build **Shopinfi – A Multi-Panel E-Commerce Platform**
 - 🌱 Learning & improving in **Spring Boot, MERN Stack & System Design**
 - 💡 Strong interest in **Backend Development & Scalable Applications**
 - 📫 Reach me at: **vuttam2002@gmail.com**
